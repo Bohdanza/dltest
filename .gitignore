@@ -5,3 +5,7 @@
 /4/problem4/.vs
 /4/problem4/problem4/bin
 /4/problem4/problem4/obj
+/1/.vscode
+1/CMakeLists.txt
+/1/out
+1/CMakePresets.json
