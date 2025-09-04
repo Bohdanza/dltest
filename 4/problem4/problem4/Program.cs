@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace problem4
+﻿namespace problem4
 {
     internal class Program
     {
@@ -23,11 +21,13 @@ namespace problem4
                     for (int i = rs.Count - 1; i >= 0; i--)
                         Console.WriteLine(rs[i]);
 
+                    Console.ReadLine();
                     return;
                 }
             }
 
             Console.WriteLine("Hitler not found");
+            Console.ReadLine();
             return;
         }
     }
