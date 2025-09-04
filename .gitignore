@@ -2,3 +2,6 @@
 3/CMakeLists.txt
 3/CMakePresets.json
 /3/out
+/4/problem4/.vs
+/4/problem4/problem4/bin
+/4/problem4/problem4/obj
