@@ -15,3 +15,7 @@
 8/CMakeLists.txt
 8/CMakePresets.json
 /8/out
+/2/.vscode
+2/CMakePresets.json
+2/CMakeLists.txt
+/2/out
